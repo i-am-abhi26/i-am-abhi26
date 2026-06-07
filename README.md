@@ -1,6 +1,6 @@
 # 💫 About Me:
-Mathematics & Computing Student at NIT Kurukshetra
-Learning Data Structures & Algorithms and Full-Stack Web Development
+Mathematics & Computing Student at NIT Kurukshetra <br>
+Learning Data Structures & Algorithms and Full-Stack Web Development <br>
 Building projects with JavaScript, HTML, and CSS <br>
 
 
