@@ -1,5 +1,7 @@
 # 💫 About Me:
-1st year MnC Student at NIT Kurukshetra <br>Building Small Projects<br>Currently learning Web Development and DSA <br>
+Mathematics & Computing Student at NIT Kurukshetra
+Learning Data Structures & Algorithms and Full-Stack Web Development
+Building projects with JavaScript, HTML, and CSS <br>
 
 
 ## 🌐 Socials:
