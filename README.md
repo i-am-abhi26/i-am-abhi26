@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Abhishek%20Bhattacharjee&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=M%26C%20Student%20at%20NIT%20Kurukshetra&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Abhishek%20Bhattacharjee&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=M%20and%20C%20Student%20at%20NIT%20Kurukshetra&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=M%26C+Student+%40+NIT+Kurukshetra;Building+with+React+%26+JavaScript;Creator+of+TaskNest;Always+learning%2C+always+building" alt="Typing SVG" />
