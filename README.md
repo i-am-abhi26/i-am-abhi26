@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Abhishek%20Bhattacharjee&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=M%20and%20C%20Student%20at%20NIT%20Kurukshetra&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Abhishek%20Bhattacharjee&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=M%20n%20C%20Student%20at%20NIT%20Kurukshetra&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=M%26C+Student+%40+NIT+Kurukshetra;Building+with+React+%26+JavaScript;Creator+of+TaskNest;Always+learning%2C+always+building" alt="Typing SVG" />
@@ -34,27 +34,6 @@ const abhishek = {
 
 ---
 
-## 🚀 Featured Projects
-
-### TaskNest
-
-<div align="center">
-<a href="https://github.com/i-am-abhi26/TaskNest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-abhi26&repo=TaskNest&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="TaskNest Repo Card"/>
-</a>
-</div>
-
-A clean and responsive Todo application built with React, Vite, and Local Storage.
-
-| Layer         | Technology     |
-|---------------|----------------|
-| Frontend      | React          |
-| Build Tool    | Vite           |
-| Storage       | Local Storage  |
-
-🔗 **Live:** [tasknest-mauve.vercel.app](https://tasknest-mauve.vercel.app/) &nbsp;|&nbsp; 💻 **Code:** [GitHub](https://github.com/i-am-abhi26/TaskNest)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -85,13 +64,6 @@ A clean and responsive Todo application built with React, Vite, and Local Storag
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=i-am-abhi26&theme=nord&no-frame=true&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 📈 Contribution Activity
 
